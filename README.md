@@ -42,9 +42,7 @@ What I bring:
 I’m building and contributing across the Deadlock API ecosystem:
 
 - [deadlock-api/deadlock-api-rust](https://github.com/deadlock-api/deadlock-api-rust) — Game Data API
-- [deadlock-api/deadlock-api-assets](https://github.com/deadlock-api/deadlock-api-assets) — Game Assets API
 - [deadlock-api/deadlock-api-ingest](https://github.com/deadlock-api/deadlock-api-ingest) — public data ingestion
-- [deadlock-api/deadlock-api-tools](https://github.com/deadlock-api/deadlock-api-tools) — helper tools and scripts
 - [deadlock-api/openapi-clients](https://github.com/deadlock-api/openapi-clients) — generated clients from OpenAPI specs
 
 ## 🧰 Other Projects
