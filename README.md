@@ -41,7 +41,7 @@ What I bring:
 ## 🔭 Favorite Project: Deadlock API
 I’m building and contributing across the Deadlock API ecosystem:
 
-- [deadlock-api/deadlock-api-rust](https://github.com/deadlock-api/deadlock-api-rust) — Game Data API
+- [deadlock-api/deadlock-api](https://github.com/deadlock-api/deadlock-api) — Game Data & Analytics API
 - [deadlock-api/deadlock-api-ingest](https://github.com/deadlock-api/deadlock-api-ingest) — public data ingestion
 - [deadlock-api/openapi-clients](https://github.com/deadlock-api/openapi-clients) — generated clients from OpenAPI specs
 
